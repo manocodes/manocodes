@@ -24,4 +24,4 @@ My background is in data and AI platforms, which means I'm comfortable in that g
 
 ---
 
-Find me on LinkedIn or open an issue on anything here.
+Find me on [LinkedIn](https://www.linkedin.com/in/manoy/).
